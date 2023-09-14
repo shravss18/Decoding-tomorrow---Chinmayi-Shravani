@@ -1,7 +1,7 @@
 # Decoding-tomorrow---Chinmayi-Shravani
-ntro into time series forecasting
+Intro into time series forecasting
 
-So first, we have an actual promlem that a company or client provides us. 
+So first, we have an actual problem that a company or client provides us. 
 From there we arrive to the statistical problem with the help of EDA. 
 EDA stands for Explorative data analysis. 
 From the statistical problem we get the statistical solution using a model. 
